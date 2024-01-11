@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity, SafeAreaView } from 'react-na
 import { Accelerometer } from 'expo-sensors';
 import { Constants } from 'expo-constants';
 import LottieView from 'lottie-react-native';
-import runningAnimation from './assets/kos.gif'; // Örnek bir koşu animasyonu
+import runningAnimation from './assets/running.json'; // Örnek bir koşu animasyonu
 import sittingAnimation from './assets/sito.json'; // Örnek bir oturma animasyonu
 
 
